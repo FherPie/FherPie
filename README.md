@@ -1,6 +1,6 @@
 ## Hi there 👋 thanks  for visiting my github profile / Hola Gracias por visitar mi perfil de github
 
-Soy Ingeniero de Software con más de 7 años de experiencia. He trabajado en varios proyectos utilizando Java, Javascript, y otros lenguajes de programación. Actualmente, estoy desarrollando y diseñando soluciones de software utilizando **TypeScript**, **Angular**,**React.js**, **C#**, **AWS**, **Spring Boot**, **SQL** y tecnologías relacionadas.
+Soy Ingeniero de Software con más de 7 años de experiencia. He trabajado en varios proyectos utilizando Java, Javascript, y otros lenguajes de programación. Actualmente, estoy desarrollando y diseñando soluciones de software utilizando **TypeScript**, **Angular**, **React.js**, **C#**, **AWS**, **Spring Boot**, **SQL** y tecnologías relacionadas.
 
 ## Get in touch
 
