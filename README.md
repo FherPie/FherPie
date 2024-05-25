@@ -4,7 +4,7 @@ Soy Ingeniero de Software con más de 7 años de experiencia. He trabajado en va
 
 ## Get in touch
 
-- LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-fernando-piedra-1a82a324/
+- LinkedIn: https://www.linkedin.com/in/andresfernandopiedra
 
 ## 🔢 GitHub Stats:
 
